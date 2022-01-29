@@ -1,6 +1,6 @@
   **Hi there, I'm Oleksii** 👋
 
-- 🔭 I’m currently working on **a lot of different stuff**
+- 🔭 I’m currently **looking for** work
 
 - 🌱 I’m currently learning **React** and  everything I can get my hands on
 <!-- - 👯 I’m looking to collaborate on ... -->
