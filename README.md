@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React** and  everything I can get my hands on
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with **finding more time in a week**
+<!-- - 🤔 I’m looking for help with **finding more time in a week** -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: OstafiychukOV@gmail.com
 <!-- - 😄 Pronouns: ... -->
