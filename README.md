@@ -8,7 +8,7 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: OstafiychukOV@gmail.com
 <!-- - 😄 Pronouns: ... -->
-- ⚡ My resume:  https://ostafiichuko.github.io/resume/
+- ⚡ My resume:  https://drive.google.com/file/d/1IyLAte9Zm2kiUIyepS86n5avDyUJfCpk/view?usp=sharing
 
 My stack and tools:
 
