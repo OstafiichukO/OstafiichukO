@@ -1,14 +1,12 @@
   **Hi there, I'm Oleksii** 👋
 
-- 🔭 I’m currently **looking for** work
-
-- 🌱 I’m currently learning **Typescript and Angular** and  everything I can get my hands on
+- 🔭 I’m currently learning ** Ruby on Rails** and  everything I can get my hands on
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with **finding more time in a week** -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: OstafiychukOV@gmail.com
 <!-- - 😄 Pronouns: ... -->
-- ⚡ My resume:  https://drive.google.com/file/d/1IyLAte9Zm2kiUIyepS86n5avDyUJfCpk/view?usp=sharing
+- ⚡ My resume:  https://drive.google.com/file/d/1iNRNhV8DMZFll5odfC65e4TumJSdC7dY/view?usp=sharing
 
 My stack and tools:
 
