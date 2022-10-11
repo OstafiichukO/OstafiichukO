@@ -1,6 +1,6 @@
   **Hi there, I'm Oleksii** 👋
 
-- 🔭 I’m currently learning ** Ruby on Rails** and  everything I can get my hands on
+- 🔭 I’m currently learning **Ruby on Rails** and  everything I can get my hands on
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with **finding more time in a week** -->
 <!-- - 💬 Ask me about ... -->
