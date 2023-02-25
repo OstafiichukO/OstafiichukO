@@ -15,13 +15,10 @@ OstafiychukOV@gmail.com
     </a>
 </p>
 
-- 🔭 I’m currently learning **Ruby on Rails** and  everything I can get my hands on
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with **finding more time in a week** -->
-<!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: OstafiychukOV@gmail.com
-<!-- - 😄 Pronouns: ... -->
-- ⚡ My resume:  https://drive.google.com/file/d/1iNRNhV8DMZFll5odfC65e4TumJSdC7dY/view?usp=sharing
+### GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstafiichukO&langs_count=5&theme=radical" />
+</a>
 
 My stack and tools:
 
