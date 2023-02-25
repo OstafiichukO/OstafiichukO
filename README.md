@@ -1,5 +1,5 @@
  # Hi there, I'm Oleksii Ostafiichuk <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fr98&label=Profile%20views&color=0e75b6&style=flat" alt="fr98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OstafiichukO&label=Profile%20views&color=0e75b6&style=flat" alt="OstafiichukO" /> </p>
 
 ## Programming Languages and Technologies
 <p align="center">
