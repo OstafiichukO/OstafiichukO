@@ -4,7 +4,7 @@
 ## Programming Languages and Technologies
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,ruby,rails,mongodb,postgresql,git,github,vscode" />
+        <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vue,ruby,rails,mongodb,postgresql,git,github,vscode" />
     </a>
 </p>
 
