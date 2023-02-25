@@ -1,7 +1,8 @@
 ### Hi there, I'm Oleksii Ostafiichuk <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OstafiichukO&label=Profile%20views&color=0e75b6&style=flat" alt="OstafiichukO" /> </p>
+<hr>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fire+code&pause=2000&color=2160c4&width=435&lines=Software+engineer)](https://git.io/typing-svg)
 ### How to reach me: 
 
 OstafiychukOV@gmail.com
