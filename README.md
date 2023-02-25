@@ -1,4 +1,12 @@
-  **Hi there, I'm Oleksii** 👋
+ # Hi there, I'm Oleksii Ostafiichuk <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fr98&label=Profile%20views&color=0e75b6&style=flat" alt="fr98" /> </p>
+
+## Programming Languages and Technologies
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ruby,py,solidity,js,html,css,java,kotlin,bash,c,cs,cpp" />
+    </a>
+</p>
 
 - 🔭 I’m currently learning **Ruby on Rails** and  everything I can get my hands on
 <!-- - 👯 I’m looking to collaborate on ... -->
