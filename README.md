@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />
-Vue.js && Ruby on Rails developer 
+React, Vue && Ruby on Rails developer 
 
 Currently studying Master of Science in Computer Science: Software Engineering
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OstafiichukO&label=Profile%20views&color=0e75b6&style=flat" alt="OstafiichukO" /> </p>
